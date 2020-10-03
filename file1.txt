@@ -1,1 +1,2 @@
 file1 data user1
+file1 data user2
